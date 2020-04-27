@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "107581283619",
+    "firebase_url": "https://logincrud-aa25e.firebaseio.com",
+    "project_id": "logincrud-aa25e",
+    "storage_bucket": "logincrud-aa25e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107581283619:android:00080b25e1e3ccc7844096",
+        "android_client_info": {
+          "package_name": "com.talhamsajid.flutter_login_and_crud_with_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107581283619-l7ithmmpk0qj39iq5na45ho36ua4idpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRotxlTOvWlikJF-C0ZI773URl_Gegess"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107581283619-l7ithmmpk0qj39iq5na45ho36ua4idpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
